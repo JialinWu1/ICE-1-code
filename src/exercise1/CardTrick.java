@@ -57,5 +57,7 @@ public class CardTrick
     {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
+        System.out.println("My name is Jialin Wu, I'm from China and Keryn is my English name");
+        System.out.println();
     }
 }
